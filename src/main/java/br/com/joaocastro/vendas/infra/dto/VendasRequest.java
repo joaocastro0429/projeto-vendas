@@ -1,4 +1,4 @@
-package br.com.joaocastro.vendas.dto;
+package br.com.joaocastro.vendas.infra.dto;
 
 import java.math.BigDecimal;
 import java.time.LocalDate;

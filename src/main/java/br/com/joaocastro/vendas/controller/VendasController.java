@@ -1,7 +1,7 @@
 package br.com.joaocastro.vendas.controller;
 
-import br.com.joaocastro.vendas.dto.VendasRequest;
-import br.com.joaocastro.vendas.dto.VendasResponse;
+import br.com.joaocastro.vendas.infra.dto.VendasRequest;
+import br.com.joaocastro.vendas.infra.dto.VendasResponse;
 import br.com.joaocastro.vendas.service.VendasService;
 import org.springframework.format.annotation.DateTimeFormat;
 import org.springframework.http.HttpStatus;
